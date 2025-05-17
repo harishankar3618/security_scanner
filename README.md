@@ -10,11 +10,4 @@ A modular and expandable security scanning tool for network reconnaissance and v
 - Web application vulnerability scanning
 - Directory bruteforcing
 - CVE lookup and vulnerability matching
-- Comprehensive HTML/JSON reporting
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/security-scanner.git
-cd security-scanner
+- Comprehensive JSON reporting
