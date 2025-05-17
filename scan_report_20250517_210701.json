@@ -1,0 +1,91 @@
+{
+    "target": "scanme.nmap.org",
+    "timestamp": "2025-05-17T21:06:55.988512",
+    "open_ports": [
+        22,
+        80
+    ],
+    "service_banners": {
+        "80": {
+            "port": 80,
+            "banner": "HTTP/1.1 200 OK\r\nDate: Sat, 17 May 2025 15:36:55 GMT\r\nServer: Apache/2.4.7 (Ubuntu)\r\nAccept-Ranges: bytes\r\nVary: Accept-Encoding\r\nContent-Type: text/html\r\n\r\n",
+            "service": "http",
+            "version": "Apache/2.4.7 (Ubuntu)",
+            "protocol": "tcp"
+        },
+        "22": {
+            "port": 22,
+            "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13\r\n",
+            "service": "ssh",
+            "version": "OpenSSH_6.6.1p1",
+            "protocol": "tcp"
+        }
+    },
+    "web_findings": [
+        {
+            "type": "Missing Security Header",
+            "url": "http://scanme.nmap.org:80",
+            "detail": "Missing X-Frame-Options header",
+            "severity": "Medium"
+        },
+        {
+            "type": "Missing Security Header",
+            "url": "http://scanme.nmap.org:80",
+            "detail": "Missing X-XSS-Protection header",
+            "severity": "Medium"
+        },
+        {
+            "type": "Missing Security Header",
+            "url": "http://scanme.nmap.org:80",
+            "detail": "Missing X-Content-Type-Options header",
+            "severity": "Medium"
+        },
+        {
+            "type": "Missing Security Header",
+            "url": "http://scanme.nmap.org:80",
+            "detail": "Missing HSTS header",
+            "severity": "Medium"
+        },
+        {
+            "type": "Missing Security Header",
+            "url": "http://scanme.nmap.org:80",
+            "detail": "Missing Content-Security-Policy header",
+            "severity": "Medium"
+        }
+    ],
+    "directories": [
+        {
+            "url": "http://scanme.nmap.org:80/images",
+            "status_code": 301,
+            "size": 318,
+            "redirect": "http://scanme.nmap.org/images/"
+        }
+    ],
+    "vulnerabilities": [
+        {
+            "port": 22,
+            "type": "Default Credentials Check",
+            "severity": "High",
+            "details": "Service: ssh, Credentials: root:root"
+        },
+        {
+            "port": 22,
+            "type": "Default Credentials Check",
+            "severity": "High",
+            "details": "Service: ssh, Credentials: admin:admin"
+        },
+        {
+            "port": 22,
+            "type": "Vulnerable OpenSSH Version",
+            "severity": "High",
+            "details": "Vulnerable version detected in banner: SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13\r\n"
+        },
+        {
+            "port": 80,
+            "type": "Vulnerable Apache Version",
+            "severity": "High",
+            "details": "Vulnerable version detected in banner: HTTP/1.1 200 OK\r\nDate: Sat, 17 May 2025 15:36:55 GMT\r\nServer: Apache/2.4.7 (Ubuntu)\r\nAccept-Ranges: bytes\r\nVary: Accept-Encoding\r\nContent-Type: text/html\r\n\r\n"
+        }
+    ],
+    "cve_matches": {}
+}

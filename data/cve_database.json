@@ -1,0 +1,278 @@
+{
+  "CVE-2021-44228": {
+    "description": "Apache Log4j2 Remote Code Execution (Log4Shell)",
+    "affected_products": ["apache", "log4j", "java"],
+    "version_pattern": "2\\.[0-9]\\.[0-9]",
+    "cvss_score": 10.0,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2021-44228",
+      "https://www.lunasec.io/docs/blog/log4j-zero-day/"
+    ],
+    "published_date": "2021-12-10",
+    "remediation": "Upgrade to Log4j 2.15.0 or higher"
+  },
+  "CVE-2021-45046": {
+    "description": "Apache Log4j2 Remote Code Execution (second variant)",
+    "affected_products": ["apache", "log4j", "java"],
+    "version_pattern": "2\\.[0-9]\\.[0-9]",
+    "cvss_score": 9.0,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2021-45046"
+    ],
+    "published_date": "2021-12-14",
+    "remediation": "Upgrade to Log4j 2.16.0 or higher"
+  },
+  "CVE-2023-23638": {
+    "description": "OpenSSH Pre-Authentication DoS Vulnerability",
+    "affected_products": ["openssh", "ssh"],
+    "version_pattern": "9\\.2",
+    "cvss_score": 7.5,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2023-23638"
+    ],
+    "published_date": "2023-02-03",
+    "remediation": "Upgrade to OpenSSH 9.2p1 or higher"
+  },
+  "CVE-2022-22965": {
+    "description": "Spring Framework RCE Vulnerability (Spring4Shell)",
+    "affected_products": ["spring", "java", "apache"],
+    "version_pattern": "5\\.3\\.[0-9]|5\\.2\\.[0-9]",
+    "cvss_score": 9.8,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2022-22965"
+    ],
+    "published_date": "2022-03-31",
+    "remediation": "Upgrade to Spring Framework 5.3.18+ or 5.2.20+"
+  },
+  "CVE-2023-41993": {
+    "description": "WebKit Buffer Overflow Vulnerability",
+    "affected_products": ["webkit", "safari", "apple"],
+    "version_pattern": "16\\.[0-9]",
+    "cvss_score": 8.8,
+    "references": [
+      "https://support.apple.com/en-us/HT213843"
+    ],
+    "published_date": "2023-09-11",
+    "remediation": "Update to latest browser version"
+  },
+  "CVE-2023-23583": {
+    "description": "Apache Struts 2 Remote Code Execution",
+    "affected_products": ["apache", "struts"],
+    "version_pattern": "2\\.[0-5]\\.[0-9]",
+    "cvss_score": 9.8,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2023-23583"
+    ],
+    "published_date": "2023-10-16",
+    "remediation": "Upgrade to Struts 2.5.33 or higher"
+  },
+  "CVE-2023-46604": {
+    "description": "Apache ActiveMQ Remote Code Execution Vulnerability",
+    "affected_products": ["apache", "activemq"],
+    "version_pattern": "5\\.[0-9]+\\.[0-9]+",
+    "cvss_score": 10.0,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2023-46604"
+    ],
+    "published_date": "2023-10-25",
+    "remediation": "Upgrade to ActiveMQ 5.18.3, 5.17.6, or 5.16.7"
+  },
+  "CVE-2023-4863": {
+    "description": "Heap Buffer Overflow in WebP in libwebp",
+    "affected_products": ["webkit", "chrome", "firefox", "edge", "webp", "libwebp"],
+    "version_pattern": "1\\.[0-2]\\.[0-4]",
+    "cvss_score": 8.8,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2023-4863"
+    ],
+    "published_date": "2023-09-11",
+    "remediation": "Update browsers and systems with latest patches"
+  },
+  "CVE-2022-44268": {
+    "description": "ImageMagick Arbitrary File Read Vulnerability",
+    "affected_products": ["imagemagick"],
+    "version_pattern": "7\\.[0-1]\\.[0-9]",
+    "cvss_score": 8.6,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2022-44268"
+    ],
+    "published_date": "2022-11-07",
+    "remediation": "Upgrade to ImageMagick 7.1.0-51 or higher"
+  },
+  "CVE-2022-34305": {
+    "description": "MongoDB Privilege Escalation via JavaScript execution",
+    "affected_products": ["mongodb"],
+    "version_pattern": "5\\.[0-2]",
+    "cvss_score": 8.1,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2022-34305"
+    ],
+    "published_date": "2022-10-07",
+    "remediation": "Upgrade to MongoDB 5.3 or higher"
+  },
+  "CVE-2023-28252": {
+    "description": "Windows Common Log File System Driver Elevation of Privilege",
+    "affected_products": ["windows"],
+    "version_pattern": "10|11",
+    "cvss_score": 7.8,
+    "references": [
+      "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28252"
+    ],
+    "published_date": "2023-04-11",
+    "remediation": "Apply latest Windows security updates"
+  },
+  "CVE-2022-1292": {
+    "description": "OpenSSL c_rehash script command injection",
+    "affected_products": ["openssl"],
+    "version_pattern": "3\\.0\\.[0-3]|1\\.1\\.[0-9]",
+    "cvss_score": 8.1,
+    "references": [
+      "https://www.openssl.org/news/secadv/20220503.txt"
+    ],
+    "published_date": "2022-05-03",
+    "remediation": "Upgrade to OpenSSL 3.0.3 or 1.1.1o or higher"
+  },
+  "CVE-2019-0708": {
+    "description": "Remote Desktop Services Remote Code Execution (BlueKeep)",
+    "affected_products": ["windows", "rdp"],
+    "version_pattern": ".*",
+    "cvss_score": 9.8,
+    "references": [
+      "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2019-0708"
+    ],
+    "published_date": "2019-05-14",
+    "remediation": "Apply Windows security updates, disable Remote Desktop if not needed"
+  },
+  "CVE-2017-5638": {
+    "description": "Apache Struts 2 Remote Code Execution (Jakarta Multipart parser)",
+    "affected_products": ["apache", "struts"],
+    "version_pattern": "2\\.[3-5]\\.[0-9]",
+    "cvss_score": 10.0,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2017-5638"
+    ],
+    "published_date": "2017-03-06",
+    "remediation": "Upgrade to Struts 2.3.32 or 2.5.10.1 or higher"
+  },
+  "CVE-2021-34527": {
+    "description": "Windows Print Spooler Remote Code Execution (PrintNightmare)",
+    "affected_products": ["windows", "print spooler"],
+    "version_pattern": ".*",
+    "cvss_score": 8.8,
+    "references": [
+      "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527"
+    ],
+    "published_date": "2021-07-01",
+    "remediation": "Apply Windows security updates, disable Print Spooler if not needed"
+  },
+  "CVE-2023-24880": {
+    "description": "Windows Hyper-V Remote Code Execution Vulnerability",
+    "affected_products": ["windows", "hyper-v"],
+    "version_pattern": "10|11|server",
+    "cvss_score": 8.5,
+    "references": [
+      "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24880"
+    ],
+    "published_date": "2023-04-11",
+    "remediation": "Apply latest Windows security updates"
+  },
+  "CVE-2022-22954": {
+    "description": "VMware Workspace ONE Access and Identity Manager Remote Code Execution",
+    "affected_products": ["vmware", "workspace one", "identity manager"],
+    "version_pattern": ".*",
+    "cvss_score": 9.8,
+    "references": [
+      "https://www.vmware.com/security/advisories/VMSA-2022-0011.html"
+    ],
+    "published_date": "2022-04-06",
+    "remediation": "Apply VMware security patches immediately"
+  },
+  "CVE-2022-27225": {
+    "description": "MySQL Authentication Bypass Vulnerability",
+    "affected_products": ["mysql"],
+    "version_pattern": "5\\.[7-9]\\.[0-9]|8\\.[0-9]\\.[0-9]",
+    "cvss_score": 7.5,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2022-27225"
+    ],
+    "published_date": "2022-04-26",
+    "remediation": "Update to latest MySQL version"
+  },
+  "CVE-2022-40684": {
+    "description": "Fortinet FortiOS, FortiProxy, and FortiSwitchManager Authentication Bypass",
+    "affected_products": ["fortinet", "fortios", "fortiproxy"],
+    "version_pattern": ".*",
+    "cvss_score": 9.8,
+    "references": [
+      "https://www.fortiguard.com/psirt/FG-IR-22-377"
+    ],
+    "published_date": "2022-10-10",
+    "remediation": "Apply Fortinet security updates immediately"
+  },
+  "CVE-2023-3676": {
+    "description": "GitLab RCE via GitHub import webhook functionality",
+    "affected_products": ["gitlab"],
+    "version_pattern": "16\\.[0-1]\\.[0-9]",
+    "cvss_score": 9.9,
+    "references": [
+      "https://about.gitlab.com/releases/2023/08/01/critical-security-release-gitlab-16-2-1-released/"
+    ],
+    "published_date": "2023-08-01",
+    "remediation": "Upgrade to GitLab 16.2.1 or higher"
+  },
+  "CVE-2022-21449": {
+    "description": "Java ECDSA Signature Validation (Psychic Signatures)",
+    "affected_products": ["java", "jdk"],
+    "version_pattern": "15|16|17|18",
+    "cvss_score": 7.5,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2022-21449"
+    ],
+    "published_date": "2022-04-19",
+    "remediation": "Update to JDK 15.0.4, 16.0.3, 17.0.3, or 18.0.1"
+  },
+  "CVE-2023-32784": {
+    "description": "KeePass Memory Disclosure Vulnerability",
+    "affected_products": ["keepass"],
+    "version_pattern": "2\\.5[0-3]",
+    "cvss_score": 6.8,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2023-32784"
+    ],
+    "published_date": "2023-05-22",
+    "remediation": "Upgrade to KeePass 2.54 or higher"
+  },
+  "CVE-2021-3711": {
+    "description": "OpenSSL SM2 Decryption Buffer Overflow",
+    "affected_products": ["openssl"],
+    "version_pattern": "1\\.1\\.1[a-k]",
+    "cvss_score": 9.8,
+    "references": [
+      "https://www.openssl.org/news/secadv/20210824.txt"
+    ],
+    "published_date": "2021-08-24",
+    "remediation": "Upgrade to OpenSSL 1.1.1l or higher"
+  },
+  "CVE-2023-21036": {
+    "description": "Microsoft Exchange Server Elevation of Privilege Vulnerability",
+    "affected_products": ["microsoft", "exchange"],
+    "version_pattern": "2019|2016",
+    "cvss_score": 8.8,
+    "references": [
+      "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21036"
+    ],
+    "published_date": "2023-01-10",
+    "remediation": "Apply latest Exchange security updates"
+  },
+  "CVE-2023-22809": {
+    "description": "Sudo Privilege Escalation Vulnerability",
+    "affected_products": ["sudo", "linux"],
+    "version_pattern": "1\\.9\\.[0-9]",
+    "cvss_score": 7.8,
+    "references": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2023-22809"
+    ],
+    "published_date": "2023-01-18",
+    "remediation": "Update to sudo 1.9.12p2 or higher"
+  }
+}

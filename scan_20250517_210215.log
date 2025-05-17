@@ -1,0 +1,483 @@
+2025-05-17 21:02:15,248 - INFO - [INFO] Advanced Security Scanner started at 2025-05-17 21:02:15
+2025-05-17 21:02:15,248 - INFO - [INFO] Advanced Security Scanner started at 2025-05-17 21:02:15
+2025-05-17 21:02:15,248 - INFO - [INFO] Advanced Security Scanner started at 2025-05-17 21:02:15
+2025-05-17 21:02:15,248 - INFO - [INFO] Advanced Security Scanner started at 2025-05-17 21:02:15
+2025-05-17 21:02:15,248 - INFO - [INFO] Advanced Security Scanner started at 2025-05-17 21:02:15
+2025-05-17 21:02:15,248 - INFO - [INFO] Advanced Security Scanner started at 2025-05-17 21:02:15
+2025-05-17 21:02:15,248 - INFO - [INFO] Advanced Security Scanner started at 2025-05-17 21:02:15
+2025-05-17 21:02:15,250 - INFO - [INFO] Target: ransomewatch.online
+2025-05-17 21:02:15,250 - INFO - [INFO] Target: ransomewatch.online
+2025-05-17 21:02:15,250 - INFO - [INFO] Target: ransomewatch.online
+2025-05-17 21:02:15,250 - INFO - [INFO] Target: ransomewatch.online
+2025-05-17 21:02:15,250 - INFO - [INFO] Target: ransomewatch.online
+2025-05-17 21:02:15,250 - INFO - [INFO] Target: ransomewatch.online
+2025-05-17 21:02:15,250 - INFO - [INFO] Target: ransomewatch.online
+2025-05-17 21:02:15,250 - INFO - [INFO] Scanning 1000 ports
+2025-05-17 21:02:15,250 - INFO - [INFO] Scanning 1000 ports
+2025-05-17 21:02:15,250 - INFO - [INFO] Scanning 1000 ports
+2025-05-17 21:02:15,250 - INFO - [INFO] Scanning 1000 ports
+2025-05-17 21:02:15,250 - INFO - [INFO] Scanning 1000 ports
+2025-05-17 21:02:15,250 - INFO - [INFO] Scanning 1000 ports
+2025-05-17 21:02:15,250 - INFO - [INFO] Scanning 1000 ports
+2025-05-17 21:02:15,251 - INFO - [INFO] Starting port scan...
+2025-05-17 21:02:15,251 - INFO - [INFO] Starting port scan...
+2025-05-17 21:02:15,251 - INFO - [INFO] Starting port scan...
+2025-05-17 21:02:15,251 - INFO - [INFO] Starting port scan...
+2025-05-17 21:02:15,251 - INFO - [INFO] Starting port scan...
+2025-05-17 21:02:15,251 - INFO - [INFO] Starting port scan...
+2025-05-17 21:02:15,251 - INFO - [INFO] Starting port scan...
+2025-05-17 21:02:15,251 - INFO - [INFO] Scanning 1000 ports on ransomewatch.online with 10 threads
+2025-05-17 21:02:15,251 - INFO - [INFO] Scanning 1000 ports on ransomewatch.online with 10 threads
+2025-05-17 21:02:15,251 - INFO - [INFO] Scanning 1000 ports on ransomewatch.online with 10 threads
+2025-05-17 21:02:15,251 - INFO - [INFO] Scanning 1000 ports on ransomewatch.online with 10 threads
+2025-05-17 21:02:15,251 - INFO - [INFO] Scanning 1000 ports on ransomewatch.online with 10 threads
+2025-05-17 21:02:15,251 - INFO - [INFO] Scanning 1000 ports on ransomewatch.online with 10 threads
+2025-05-17 21:02:15,251 - INFO - [INFO] Scanning 1000 ports on ransomewatch.online with 10 threads
+2025-05-17 21:02:18,555 - INFO - [SUCCESS] Port 22 is open
+2025-05-17 21:02:18,555 - INFO - [SUCCESS] Port 22 is open
+2025-05-17 21:02:18,555 - INFO - [SUCCESS] Port 22 is open
+2025-05-17 21:02:18,555 - INFO - [SUCCESS] Port 22 is open
+2025-05-17 21:02:18,555 - INFO - [SUCCESS] Port 22 is open
+2025-05-17 21:02:18,555 - INFO - [SUCCESS] Port 22 is open
+2025-05-17 21:02:18,555 - INFO - [SUCCESS] Port 22 is open
+2025-05-17 21:02:23,613 - INFO - [SUCCESS] Port 80 is open
+2025-05-17 21:02:23,613 - INFO - [SUCCESS] Port 80 is open
+2025-05-17 21:02:23,613 - INFO - [SUCCESS] Port 80 is open
+2025-05-17 21:02:23,613 - INFO - [SUCCESS] Port 80 is open
+2025-05-17 21:02:23,613 - INFO - [SUCCESS] Port 80 is open
+2025-05-17 21:02:23,613 - INFO - [SUCCESS] Port 80 is open
+2025-05-17 21:02:23,613 - INFO - [SUCCESS] Port 80 is open
+2025-05-17 21:03:00,060 - INFO - [SUCCESS] Port 443 is open
+2025-05-17 21:03:00,060 - INFO - [SUCCESS] Port 443 is open
+2025-05-17 21:03:00,060 - INFO - [SUCCESS] Port 443 is open
+2025-05-17 21:03:00,060 - INFO - [SUCCESS] Port 443 is open
+2025-05-17 21:03:00,060 - INFO - [SUCCESS] Port 443 is open
+2025-05-17 21:03:00,060 - INFO - [SUCCESS] Port 443 is open
+2025-05-17 21:03:00,060 - INFO - [SUCCESS] Port 443 is open
+2025-05-17 21:03:56,475 - INFO - [INFO] Found 3 open ports
+2025-05-17 21:03:56,475 - INFO - [INFO] Found 3 open ports
+2025-05-17 21:03:56,475 - INFO - [INFO] Found 3 open ports
+2025-05-17 21:03:56,475 - INFO - [INFO] Found 3 open ports
+2025-05-17 21:03:56,475 - INFO - [INFO] Found 3 open ports
+2025-05-17 21:03:56,475 - INFO - [INFO] Found 3 open ports
+2025-05-17 21:03:56,475 - INFO - [INFO] Found 3 open ports
+2025-05-17 21:03:56,477 - INFO - [INFO] Grabbing service banners...
+2025-05-17 21:03:56,477 - INFO - [INFO] Grabbing service banners...
+2025-05-17 21:03:56,477 - INFO - [INFO] Grabbing service banners...
+2025-05-17 21:03:56,477 - INFO - [INFO] Grabbing service banners...
+2025-05-17 21:03:56,477 - INFO - [INFO] Grabbing service banners...
+2025-05-17 21:03:56,477 - INFO - [INFO] Grabbing service banners...
+2025-05-17 21:03:56,477 - INFO - [INFO] Grabbing service banners...
+2025-05-17 21:03:56,477 - INFO - Grabbing banners from 3 open ports using 10 threads
+2025-05-17 21:03:56,477 - INFO - Grabbing banners from 3 open ports using 10 threads
+2025-05-17 21:03:56,477 - INFO - Grabbing banners from 3 open ports using 10 threads
+2025-05-17 21:03:56,477 - INFO - Grabbing banners from 3 open ports using 10 threads
+2025-05-17 21:03:56,477 - INFO - Grabbing banners from 3 open ports using 10 threads
+2025-05-17 21:03:56,477 - INFO - Grabbing banners from 3 open ports using 10 threads
+2025-05-17 21:03:56,477 - INFO - Grabbing banners from 3 open ports using 10 threads
+2025-05-17 21:03:57,603 - INFO - [INFO] Found 2 potential web servers. Starting web scan...
+2025-05-17 21:03:57,603 - INFO - [INFO] Found 2 potential web servers. Starting web scan...
+2025-05-17 21:03:57,603 - INFO - [INFO] Found 2 potential web servers. Starting web scan...
+2025-05-17 21:03:57,603 - INFO - [INFO] Found 2 potential web servers. Starting web scan...
+2025-05-17 21:03:57,603 - INFO - [INFO] Found 2 potential web servers. Starting web scan...
+2025-05-17 21:03:57,603 - INFO - [INFO] Found 2 potential web servers. Starting web scan...
+2025-05-17 21:03:57,603 - INFO - [INFO] Found 2 potential web servers. Starting web scan...
+2025-05-17 21:03:57,604 - INFO - [INFO] Scanning web server at http://ransomewatch.online:80
+2025-05-17 21:03:57,604 - INFO - [INFO] Scanning web server at http://ransomewatch.online:80
+2025-05-17 21:03:57,604 - INFO - [INFO] Scanning web server at http://ransomewatch.online:80
+2025-05-17 21:03:57,604 - INFO - [INFO] Scanning web server at http://ransomewatch.online:80
+2025-05-17 21:03:57,604 - INFO - [INFO] Scanning web server at http://ransomewatch.online:80
+2025-05-17 21:03:57,604 - INFO - [INFO] Scanning web server at http://ransomewatch.online:80
+2025-05-17 21:03:57,604 - INFO - [INFO] Scanning web server at http://ransomewatch.online:80
+2025-05-17 21:04:03,406 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80
+2025-05-17 21:04:03,406 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80
+2025-05-17 21:04:03,406 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80
+2025-05-17 21:04:03,406 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80
+2025-05-17 21:04:03,406 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80
+2025-05-17 21:04:03,406 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80
+2025-05-17 21:04:03,406 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80
+2025-05-17 21:04:03,407 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80 with 44 words
+2025-05-17 21:04:03,407 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80 with 44 words
+2025-05-17 21:04:03,407 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80 with 44 words
+2025-05-17 21:04:03,407 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80 with 44 words
+2025-05-17 21:04:03,407 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80 with 44 words
+2025-05-17 21:04:03,407 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80 with 44 words
+2025-05-17 21:04:03,407 - INFO - [INFO] Starting directory bruteforce on http://ransomewatch.online:80 with 44 words
+2025-05-17 21:04:03,606 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/upload (301)
+2025-05-17 21:04:03,606 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/upload (301)
+2025-05-17 21:04:03,606 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/upload (301)
+2025-05-17 21:04:03,606 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/upload (301)
+2025-05-17 21:04:03,606 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/upload (301)
+2025-05-17 21:04:03,606 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/upload (301)
+2025-05-17 21:04:03,606 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/upload (301)
+2025-05-17 21:04:03,611 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/uploads (301)
+2025-05-17 21:04:03,611 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/uploads (301)
+2025-05-17 21:04:03,611 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/uploads (301)
+2025-05-17 21:04:03,611 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/uploads (301)
+2025-05-17 21:04:03,611 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/uploads (301)
+2025-05-17 21:04:03,611 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/uploads (301)
+2025-05-17 21:04:03,611 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/uploads (301)
+2025-05-17 21:04:03,614 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/config (301)
+2025-05-17 21:04:03,614 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/config (301)
+2025-05-17 21:04:03,614 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/config (301)
+2025-05-17 21:04:03,614 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/config (301)
+2025-05-17 21:04:03,614 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/config (301)
+2025-05-17 21:04:03,614 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/config (301)
+2025-05-17 21:04:03,614 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/config (301)
+2025-05-17 21:04:03,615 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-admin (301)
+2025-05-17 21:04:03,615 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-admin (301)
+2025-05-17 21:04:03,615 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-admin (301)
+2025-05-17 21:04:03,615 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-admin (301)
+2025-05-17 21:04:03,615 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-admin (301)
+2025-05-17 21:04:03,615 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-admin (301)
+2025-05-17 21:04:03,615 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-admin (301)
+2025-05-17 21:04:03,616 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backups (301)
+2025-05-17 21:04:03,616 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backups (301)
+2025-05-17 21:04:03,616 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backups (301)
+2025-05-17 21:04:03,616 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backups (301)
+2025-05-17 21:04:03,616 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backups (301)
+2025-05-17 21:04:03,616 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backups (301)
+2025-05-17 21:04:03,616 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backups (301)
+2025-05-17 21:04:03,617 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backup (301)
+2025-05-17 21:04:03,617 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backup (301)
+2025-05-17 21:04:03,617 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backup (301)
+2025-05-17 21:04:03,617 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backup (301)
+2025-05-17 21:04:03,617 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backup (301)
+2025-05-17 21:04:03,617 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backup (301)
+2025-05-17 21:04:03,617 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/backup (301)
+2025-05-17 21:04:03,618 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin (301)
+2025-05-17 21:04:03,618 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin (301)
+2025-05-17 21:04:03,618 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin (301)
+2025-05-17 21:04:03,618 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin (301)
+2025-05-17 21:04:03,618 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin (301)
+2025-05-17 21:04:03,618 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin (301)
+2025-05-17 21:04:03,618 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin (301)
+2025-05-17 21:04:03,623 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/administrator (301)
+2025-05-17 21:04:03,623 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/administrator (301)
+2025-05-17 21:04:03,623 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/administrator (301)
+2025-05-17 21:04:03,623 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/administrator (301)
+2025-05-17 21:04:03,623 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/administrator (301)
+2025-05-17 21:04:03,623 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/administrator (301)
+2025-05-17 21:04:03,623 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/administrator (301)
+2025-05-17 21:04:03,624 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/login (301)
+2025-05-17 21:04:03,624 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/login (301)
+2025-05-17 21:04:03,624 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/login (301)
+2025-05-17 21:04:03,624 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/login (301)
+2025-05-17 21:04:03,624 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/login (301)
+2025-05-17 21:04:03,624 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/login (301)
+2025-05-17 21:04:03,624 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/login (301)
+2025-05-17 21:04:03,627 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-content (301)
+2025-05-17 21:04:03,627 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-content (301)
+2025-05-17 21:04:03,627 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-content (301)
+2025-05-17 21:04:03,627 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-content (301)
+2025-05-17 21:04:03,627 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-content (301)
+2025-05-17 21:04:03,627 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-content (301)
+2025-05-17 21:04:03,627 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-content (301)
+2025-05-17 21:04:03,706 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dashboard (301)
+2025-05-17 21:04:03,706 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dashboard (301)
+2025-05-17 21:04:03,706 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dashboard (301)
+2025-05-17 21:04:03,706 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dashboard (301)
+2025-05-17 21:04:03,706 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dashboard (301)
+2025-05-17 21:04:03,706 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dashboard (301)
+2025-05-17 21:04:03,706 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dashboard (301)
+2025-05-17 21:04:03,712 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/cms (301)
+2025-05-17 21:04:03,712 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/cms (301)
+2025-05-17 21:04:03,712 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/cms (301)
+2025-05-17 21:04:03,712 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/cms (301)
+2025-05-17 21:04:03,712 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/cms (301)
+2025-05-17 21:04:03,712 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/cms (301)
+2025-05-17 21:04:03,712 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/cms (301)
+2025-05-17 21:04:03,726 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/test (301)
+2025-05-17 21:04:03,726 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/test (301)
+2025-05-17 21:04:03,726 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/test (301)
+2025-05-17 21:04:03,726 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/test (301)
+2025-05-17 21:04:03,726 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/test (301)
+2025-05-17 21:04:03,726 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/test (301)
+2025-05-17 21:04:03,726 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/test (301)
+2025-05-17 21:04:03,727 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/staging (301)
+2025-05-17 21:04:03,727 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/staging (301)
+2025-05-17 21:04:03,727 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/staging (301)
+2025-05-17 21:04:03,727 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/staging (301)
+2025-05-17 21:04:03,727 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/staging (301)
+2025-05-17 21:04:03,727 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/staging (301)
+2025-05-17 21:04:03,727 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/staging (301)
+2025-05-17 21:04:03,728 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v1 (301)
+2025-05-17 21:04:03,728 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v1 (301)
+2025-05-17 21:04:03,728 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v1 (301)
+2025-05-17 21:04:03,728 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v1 (301)
+2025-05-17 21:04:03,728 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v1 (301)
+2025-05-17 21:04:03,728 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v1 (301)
+2025-05-17 21:04:03,728 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v1 (301)
+2025-05-17 21:04:03,729 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dev (301)
+2025-05-17 21:04:03,729 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dev (301)
+2025-05-17 21:04:03,729 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dev (301)
+2025-05-17 21:04:03,729 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dev (301)
+2025-05-17 21:04:03,729 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dev (301)
+2025-05-17 21:04:03,729 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dev (301)
+2025-05-17 21:04:03,729 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/dev (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/prod (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/prod (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/prod (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/prod (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/prod (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/prod (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/prod (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/api (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/api (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/api (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/api (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/api (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/api (301)
+2025-05-17 21:04:03,730 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/api (301)
+2025-05-17 21:04:03,731 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/development (301)
+2025-05-17 21:04:03,731 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/development (301)
+2025-05-17 21:04:03,731 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/development (301)
+2025-05-17 21:04:03,731 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/development (301)
+2025-05-17 21:04:03,731 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/development (301)
+2025-05-17 21:04:03,731 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/development (301)
+2025-05-17 21:04:03,731 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/development (301)
+2025-05-17 21:04:03,732 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v2 (301)
+2025-05-17 21:04:03,732 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v2 (301)
+2025-05-17 21:04:03,732 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v2 (301)
+2025-05-17 21:04:03,732 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v2 (301)
+2025-05-17 21:04:03,732 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v2 (301)
+2025-05-17 21:04:03,732 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v2 (301)
+2025-05-17 21:04:03,732 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/v2 (301)
+2025-05-17 21:04:03,806 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/docs (301)
+2025-05-17 21:04:03,806 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/docs (301)
+2025-05-17 21:04:03,806 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/docs (301)
+2025-05-17 21:04:03,806 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/docs (301)
+2025-05-17 21:04:03,806 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/docs (301)
+2025-05-17 21:04:03,806 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/docs (301)
+2025-05-17 21:04:03,806 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/docs (301)
+2025-05-17 21:04:03,821 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/documentation (301)
+2025-05-17 21:04:03,821 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/documentation (301)
+2025-05-17 21:04:03,821 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/documentation (301)
+2025-05-17 21:04:03,821 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/documentation (301)
+2025-05-17 21:04:03,821 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/documentation (301)
+2025-05-17 21:04:03,821 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/documentation (301)
+2025-05-17 21:04:03,821 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/documentation (301)
+2025-05-17 21:04:03,826 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-includes (301)
+2025-05-17 21:04:03,826 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-includes (301)
+2025-05-17 21:04:03,826 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-includes (301)
+2025-05-17 21:04:03,826 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-includes (301)
+2025-05-17 21:04:03,826 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-includes (301)
+2025-05-17 21:04:03,826 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-includes (301)
+2025-05-17 21:04:03,826 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/wp-includes (301)
+2025-05-17 21:04:03,828 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/blog (301)
+2025-05-17 21:04:03,828 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/blog (301)
+2025-05-17 21:04:03,828 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/blog (301)
+2025-05-17 21:04:03,828 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/blog (301)
+2025-05-17 21:04:03,828 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/blog (301)
+2025-05-17 21:04:03,828 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/blog (301)
+2025-05-17 21:04:03,828 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/blog (301)
+2025-05-17 21:04:03,830 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/tmp (301)
+2025-05-17 21:04:03,830 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/tmp (301)
+2025-05-17 21:04:03,830 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/tmp (301)
+2025-05-17 21:04:03,830 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/tmp (301)
+2025-05-17 21:04:03,830 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/tmp (301)
+2025-05-17 21:04:03,830 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/tmp (301)
+2025-05-17 21:04:03,830 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/tmp (301)
+2025-05-17 21:04:03,832 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/temp (301)
+2025-05-17 21:04:03,832 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/temp (301)
+2025-05-17 21:04:03,832 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/temp (301)
+2025-05-17 21:04:03,832 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/temp (301)
+2025-05-17 21:04:03,832 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/temp (301)
+2025-05-17 21:04:03,832 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/temp (301)
+2025-05-17 21:04:03,832 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/temp (301)
+2025-05-17 21:04:03,833 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/include (301)
+2025-05-17 21:04:03,833 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/include (301)
+2025-05-17 21:04:03,833 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/include (301)
+2025-05-17 21:04:03,833 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/include (301)
+2025-05-17 21:04:03,833 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/include (301)
+2025-05-17 21:04:03,833 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/include (301)
+2025-05-17 21:04:03,833 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/include (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/includes (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/includes (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/includes (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/includes (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/includes (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/includes (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/includes (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/images (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/images (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/images (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/images (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/images (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/images (301)
+2025-05-17 21:04:03,834 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/images (301)
+2025-05-17 21:04:03,835 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/img (301)
+2025-05-17 21:04:03,835 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/img (301)
+2025-05-17 21:04:03,835 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/img (301)
+2025-05-17 21:04:03,835 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/img (301)
+2025-05-17 21:04:03,835 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/img (301)
+2025-05-17 21:04:03,835 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/img (301)
+2025-05-17 21:04:03,835 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/img (301)
+2025-05-17 21:04:03,906 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/css (301)
+2025-05-17 21:04:03,906 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/css (301)
+2025-05-17 21:04:03,906 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/css (301)
+2025-05-17 21:04:03,906 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/css (301)
+2025-05-17 21:04:03,906 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/css (301)
+2025-05-17 21:04:03,906 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/css (301)
+2025-05-17 21:04:03,906 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/css (301)
+2025-05-17 21:04:03,922 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/js (301)
+2025-05-17 21:04:03,922 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/js (301)
+2025-05-17 21:04:03,922 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/js (301)
+2025-05-17 21:04:03,922 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/js (301)
+2025-05-17 21:04:03,922 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/js (301)
+2025-05-17 21:04:03,922 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/js (301)
+2025-05-17 21:04:03,922 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/js (301)
+2025-05-17 21:04:03,923 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/javascript (301)
+2025-05-17 21:04:03,923 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/javascript (301)
+2025-05-17 21:04:03,923 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/javascript (301)
+2025-05-17 21:04:03,923 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/javascript (301)
+2025-05-17 21:04:03,923 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/javascript (301)
+2025-05-17 21:04:03,923 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/javascript (301)
+2025-05-17 21:04:03,923 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/javascript (301)
+2025-05-17 21:04:03,927 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/static (301)
+2025-05-17 21:04:03,927 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/static (301)
+2025-05-17 21:04:03,927 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/static (301)
+2025-05-17 21:04:03,927 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/static (301)
+2025-05-17 21:04:03,927 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/static (301)
+2025-05-17 21:04:03,927 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/static (301)
+2025-05-17 21:04:03,927 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/static (301)
+2025-05-17 21:04:03,931 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/media (301)
+2025-05-17 21:04:03,931 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/media (301)
+2025-05-17 21:04:03,931 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/media (301)
+2025-05-17 21:04:03,931 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/media (301)
+2025-05-17 21:04:03,931 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/media (301)
+2025-05-17 21:04:03,931 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/media (301)
+2025-05-17 21:04:03,931 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/media (301)
+2025-05-17 21:04:03,933 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/file (301)
+2025-05-17 21:04:03,933 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/file (301)
+2025-05-17 21:04:03,933 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/file (301)
+2025-05-17 21:04:03,933 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/file (301)
+2025-05-17 21:04:03,933 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/file (301)
+2025-05-17 21:04:03,933 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/file (301)
+2025-05-17 21:04:03,933 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/file (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/assets (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/assets (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/assets (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/assets (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/assets (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/assets (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/assets (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/downloads (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/downloads (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/downloads (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/downloads (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/downloads (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/downloads (301)
+2025-05-17 21:04:03,939 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/downloads (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/download (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/download (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/download (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/download (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/download (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/download (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/download (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/files (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/files (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/files (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/files (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/files (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/files (301)
+2025-05-17 21:04:03,940 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/files (301)
+2025-05-17 21:04:04,005 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin.php (301)
+2025-05-17 21:04:04,005 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin.php (301)
+2025-05-17 21:04:04,005 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin.php (301)
+2025-05-17 21:04:04,005 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin.php (301)
+2025-05-17 21:04:04,005 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin.php (301)
+2025-05-17 21:04:04,005 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin.php (301)
+2025-05-17 21:04:04,005 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/admin.php (301)
+2025-05-17 21:04:04,023 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/index.php (301)
+2025-05-17 21:04:04,023 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/index.php (301)
+2025-05-17 21:04:04,023 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/index.php (301)
+2025-05-17 21:04:04,023 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/index.php (301)
+2025-05-17 21:04:04,023 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/index.php (301)
+2025-05-17 21:04:04,023 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/index.php (301)
+2025-05-17 21:04:04,023 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/index.php (301)
+2025-05-17 21:04:04,025 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/info.php (301)
+2025-05-17 21:04:04,025 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/info.php (301)
+2025-05-17 21:04:04,025 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/info.php (301)
+2025-05-17 21:04:04,025 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/info.php (301)
+2025-05-17 21:04:04,025 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/info.php (301)
+2025-05-17 21:04:04,025 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/info.php (301)
+2025-05-17 21:04:04,025 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/info.php (301)
+2025-05-17 21:04:04,027 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/phpinfo.php (301)
+2025-05-17 21:04:04,027 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/phpinfo.php (301)
+2025-05-17 21:04:04,027 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/phpinfo.php (301)
+2025-05-17 21:04:04,027 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/phpinfo.php (301)
+2025-05-17 21:04:04,027 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/phpinfo.php (301)
+2025-05-17 21:04:04,027 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/phpinfo.php (301)
+2025-05-17 21:04:04,027 - INFO - [SUCCESS] Found: http://ransomewatch.online:80/phpinfo.php (301)
+2025-05-17 21:04:04,028 - INFO - [INFO] Scanning web server at https://ransomewatch.online:443
+2025-05-17 21:04:04,028 - INFO - [INFO] Scanning web server at https://ransomewatch.online:443
+2025-05-17 21:04:04,028 - INFO - [INFO] Scanning web server at https://ransomewatch.online:443
+2025-05-17 21:04:04,028 - INFO - [INFO] Scanning web server at https://ransomewatch.online:443
+2025-05-17 21:04:04,028 - INFO - [INFO] Scanning web server at https://ransomewatch.online:443
+2025-05-17 21:04:04,028 - INFO - [INFO] Scanning web server at https://ransomewatch.online:443
+2025-05-17 21:04:04,028 - INFO - [INFO] Scanning web server at https://ransomewatch.online:443
+2025-05-17 21:04:09,374 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443
+2025-05-17 21:04:09,374 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443
+2025-05-17 21:04:09,374 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443
+2025-05-17 21:04:09,374 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443
+2025-05-17 21:04:09,374 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443
+2025-05-17 21:04:09,374 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443
+2025-05-17 21:04:09,374 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443
+2025-05-17 21:04:09,375 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443 with 44 words
+2025-05-17 21:04:09,375 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443 with 44 words
+2025-05-17 21:04:09,375 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443 with 44 words
+2025-05-17 21:04:09,375 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443 with 44 words
+2025-05-17 21:04:09,375 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443 with 44 words
+2025-05-17 21:04:09,375 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443 with 44 words
+2025-05-17 21:04:09,375 - INFO - [INFO] Starting directory bruteforce on https://ransomewatch.online:443 with 44 words
+2025-05-17 21:04:09,878 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/test (200)
+2025-05-17 21:04:09,878 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/test (200)
+2025-05-17 21:04:09,878 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/test (200)
+2025-05-17 21:04:09,878 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/test (200)
+2025-05-17 21:04:09,878 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/test (200)
+2025-05-17 21:04:09,878 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/test (200)
+2025-05-17 21:04:09,878 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/test (200)
+2025-05-17 21:04:10,334 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/index.php (200)
+2025-05-17 21:04:10,334 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/index.php (200)
+2025-05-17 21:04:10,334 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/index.php (200)
+2025-05-17 21:04:10,334 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/index.php (200)
+2025-05-17 21:04:10,334 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/index.php (200)
+2025-05-17 21:04:10,334 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/index.php (200)
+2025-05-17 21:04:10,334 - INFO - [SUCCESS] Found: https://ransomewatch.online:443/index.php (200)
+2025-05-17 21:04:10,335 - INFO - [INFO] Looking up CVEs based on service banners...
+2025-05-17 21:04:10,335 - INFO - [INFO] Looking up CVEs based on service banners...
+2025-05-17 21:04:10,335 - INFO - [INFO] Looking up CVEs based on service banners...
+2025-05-17 21:04:10,335 - INFO - [INFO] Looking up CVEs based on service banners...
+2025-05-17 21:04:10,335 - INFO - [INFO] Looking up CVEs based on service banners...
+2025-05-17 21:04:10,335 - INFO - [INFO] Looking up CVEs based on service banners...
+2025-05-17 21:04:10,335 - INFO - [INFO] Looking up CVEs based on service banners...
+2025-05-17 21:04:10,336 - INFO - [INFO] Checking for common vulnerabilities...
+2025-05-17 21:04:10,336 - INFO - [INFO] Checking for common vulnerabilities...
+2025-05-17 21:04:10,336 - INFO - [INFO] Checking for common vulnerabilities...
+2025-05-17 21:04:10,336 - INFO - [INFO] Checking for common vulnerabilities...
+2025-05-17 21:04:10,336 - INFO - [INFO] Checking for common vulnerabilities...
+2025-05-17 21:04:10,336 - INFO - [INFO] Checking for common vulnerabilities...
+2025-05-17 21:04:10,336 - INFO - [INFO] Checking for common vulnerabilities...
+2025-05-17 21:04:10,636 - INFO - [INFO] Generating report...
+2025-05-17 21:04:10,636 - INFO - [INFO] Generating report...
+2025-05-17 21:04:10,636 - INFO - [INFO] Generating report...
+2025-05-17 21:04:10,636 - INFO - [INFO] Generating report...
+2025-05-17 21:04:10,636 - INFO - [INFO] Generating report...
+2025-05-17 21:04:10,636 - INFO - [INFO] Generating report...
+2025-05-17 21:04:10,636 - INFO - [INFO] Generating report...
+2025-05-17 21:04:10,638 - INFO - [SUCCESS] Report generated: scan_report_20250517_210410.json
+2025-05-17 21:04:10,638 - INFO - [SUCCESS] Report generated: scan_report_20250517_210410.json
+2025-05-17 21:04:10,638 - INFO - [SUCCESS] Report generated: scan_report_20250517_210410.json
+2025-05-17 21:04:10,638 - INFO - [SUCCESS] Report generated: scan_report_20250517_210410.json
+2025-05-17 21:04:10,638 - INFO - [SUCCESS] Report generated: scan_report_20250517_210410.json
+2025-05-17 21:04:10,638 - INFO - [SUCCESS] Report generated: scan_report_20250517_210410.json
+2025-05-17 21:04:10,638 - INFO - [SUCCESS] Report generated: scan_report_20250517_210410.json
+2025-05-17 21:04:10,639 - INFO - [INFO] Report saved as scan_report_20250517_210410.json
+2025-05-17 21:04:10,639 - INFO - [INFO] Report saved as scan_report_20250517_210410.json
+2025-05-17 21:04:10,639 - INFO - [INFO] Report saved as scan_report_20250517_210410.json
+2025-05-17 21:04:10,639 - INFO - [INFO] Report saved as scan_report_20250517_210410.json
+2025-05-17 21:04:10,639 - INFO - [INFO] Report saved as scan_report_20250517_210410.json
+2025-05-17 21:04:10,639 - INFO - [INFO] Report saved as scan_report_20250517_210410.json
+2025-05-17 21:04:10,639 - INFO - [INFO] Report saved as scan_report_20250517_210410.json
