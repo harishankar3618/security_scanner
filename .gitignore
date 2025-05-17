@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Logs and reports
+*.log
+*.json
+
+# Text files (if auto-generated or temporary)
+*.txt
+new.txt
+
+# VS Code settings (if using VS Code)
+.vscode/
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+
+# Cache and compiled files
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Local settings
+*.env
+.env.*
